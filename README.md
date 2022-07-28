@@ -1,3 +1,5 @@
+Forked from mattbodholdt/dnscrypt-proxy for the purposes of docker image automation for amd64, arm64, and arm32.
+
 # DNSCrypt-Proxy
 
 A DNS server container which consumes Cloudflare's DNS over HTTPS resolution service (https://developers.cloudflare.com/1.1.1.1/dns-over-https/, https://1.1.1.1) by utilizing DNSCrypt Proxy (https://github.com/jedisct1/dnscrypt-proxy, https://dnscrypt.info/).
